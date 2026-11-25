@@ -1,0 +1,32 @@
+{
+    "R": {
+        "name": "Rat\u00f3n (Azul)",
+        "lower": [
+            95,
+            70,
+            50
+        ],
+        "upper": [
+            135,
+            255,
+            255
+        ],
+        "lower2": null,
+        "upper2": null
+    },
+    "G": {
+        "name": "Gato (Rojo)",
+        "lower": [
+            112,
+            40,
+            92
+        ],
+        "upper": [
+            144,
+            255,
+            255
+        ],
+        "lower2": null,
+        "upper2": null
+    }
+}

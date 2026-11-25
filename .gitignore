@@ -1,0 +1,14 @@
+# Entorno virtual de Python (NUNCA debe subirse a GitHub)
+.venv/
+venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales del sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
